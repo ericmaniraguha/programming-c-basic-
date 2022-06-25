@@ -1,1 +1,1 @@
-# programming-c-basic-
+# This is some basics for programming in c++ 
